@@ -133,7 +133,7 @@
     <!-- zlab -->
     <tr>
         <td>
-            <a href="https://github.com/Zerui18/zlab">zlab</a>
+            <a href="https://github.com/zeruic/zlab">zlab</a>
         </td>
         <td>
             A <b>modular deep learning research platform</b> for rapid experimentation with transformer architectures, enabling systematic ablation studies across attention mechanisms, positional encodings, and training configurations via a registry-driven composition system. Designed for seq2seq tasks (machine translation, speech-to-text) with built-in experiment management for grid search and metric-tracked evaluation.
@@ -146,8 +146,8 @@
     <!-- Frame -->
     <tr>
         <td>
-            <a href="https://github.com/Zerui18/Frame">Frame</a> &
-            <a href="https://github.com/Zerui18/FrameApp">Frame App</a>
+            <a href="https://github.com/zeruic/Frame">Frame</a> &
+            <a href="https://github.com/zeruic/FrameApp">Frame App</a>
         </td>
         <td>
             An iOS jailbroken tweak, app, and cli to play videos as wallpaper on lock & home screens. Performance optimized & video catalogue built-in.
@@ -166,7 +166,7 @@
     <!-- MML-Book -->
     <tr>
         <td>
-            <a href="https://github.com/Zerui18/MML-Book">MML Book</a>
+            <a href="https://github.com/zeruic/MML-Book">MML Book</a>
         </td>
         <td>
             Typesetting the full solutions to <a href="https://mml-book.github.io">Mathematics for Machine Learning</a>, implementing with basic NumPy ops the core linear algebra, regression and bayesian inference algorithms.
